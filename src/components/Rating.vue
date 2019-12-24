@@ -92,8 +92,8 @@ export default {
 		}],
 		"total": 603
       },
-    bar1:125,
-    bar2:100,
+    bar1:0,
+    bar2:0,
     bar3:0,
     bar4:0,
     bar5:0,
